@@ -139,4 +139,5 @@ int main()
     }
 
 }
+//sum =0   .. sum = sum + first[i][k]*second[k][j] ...  multiplied[i][j] = sum
 
